@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercado>
+  <nombre>Lidl</nombre>
+  <direccion>Calle Armando 20</direccion>
+  <coordenadas>
+    <norte>40°12'34.5</norte>
+    <sur></sur>
+    <este>-3°67'89.0</este>
+    <oeste></oeste>
+  </coordenadas>
+  <productos>
+    <producto1>
+      <nombre>Leche</nombre>
+      <ofertas>true</ofertas>
+      <periodo_vigencia>2023-06-30</periodo_vigencia>
+      <productos_habituales>false</productos_habituales>
+      <unidades>1</unidades>
+      <unidad_medida>litro</unidad_medida>
+      <precio>1.5</precio>
+      <adquirido>false</adquirido>
+    </producto1>
+    <producto2>
+      <nombre>Pan</nombre>
+      <ofertas>false</ofertas>
+      <periodo_vigencia>2023-06-24</periodo_vigencia>
+      <productos_habituales>true</productos_habituales>
+      <unidades>1</unidades>
+      <unidad_medida>unidad</unidad_medida>
+      <precio>0.8</precio>
+      <adquirido>false</adquirido>
+    </producto2>
+    <producto3>
+      <nombre>Huevos</nombre>
+      <ofertas>true</ofertas>
+      <periodo_vigencia>2023-06-25</periodo_vigencia>
+      <productos_habituales>false</productos_habituales>
+      <unidades>12</unidades>
+      <unidad_medida>unidad</unidad_medida>
+      <precio>2.0</precio>
+      <adquirido>false</adquirido>
+    </producto3>
+  </productos>
+</supermercado>

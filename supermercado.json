@@ -1,0 +1,109 @@
+{
+    "supermercados": {
+      "Lidl": {
+        "nombre": "Lidl",
+        "direccion": "Calle Armando 20",
+        "geolocalizacion": "40°12'34.5\"N -3°67'89.0\"E\"",
+        "productos": [
+          {
+            "nombre": "Leche",
+            "ofertas": true,
+            "periodo_vigencia": "2023-06-30",
+            "productos_habituales": false,
+            "unidades": 1,
+            "unidad_medida": "litro",
+            "precio": 1.5,
+            "adquirido": true
+          },
+          {
+            "nombre": "Pan",
+            "ofertas": false,
+            "periodo_vigencia": null,
+            "productos_habituales": true,
+            "unidades": 1,
+            "unidad_medida": "unidad",
+            "precio": 0.8,
+            "adquirido":false
+          },
+          {
+            "nombre": "Huevos",
+            "ofertas": true,
+            "periodo_vigencia": "2023-06-25",
+            "productos_habituales": false,
+            "unidades": 12,
+            "unidad_medida": "unidad",
+            "precio": 2.0,
+            "adquirido":false
+          }
+        ]
+      },
+      "Carrefour": {
+        "nombre": "Carrefour",
+        "direccion": "Avenida Rogelio 3",
+        "geolocalizacion": "41°54'32.5\"N -2°67'56.0\"E\"",
+        "productos": [
+          {
+            "nombre": "Arroz",
+            "ofertas": true,
+            "periodo_vigencia": "2023-06-30",
+            "productos_habituales": false,
+            "unidades": 1,
+            "unidad_medida": "kg",
+            "precio": 2.5,
+            "adquirido":true
+          },
+          {
+            "nombre": "Aceite de oliva",
+            "ofertas": false,
+            "periodo_vigencia": null,
+            "productos_habituales": true,
+            "unidades": 1,
+            "unidad_medida": "litro",
+            "precio": 4.0,
+            "adquirido":true
+          },
+          {
+            "nombre": "Cerveza",
+            "ofertas": true,
+            "periodo_vigencia": "2023-06-25",
+            "productos_habituales": false,
+            "unidades": 6,
+            "unidad_medida": "unidad",
+            "precio": 1.2,
+            "adquirido":false
+          }
+        ]
+      },
+      "Mercadona": {
+        "nombre": "Mercadona",
+        "direccion": "Plaza Principal 789",
+        "geolocalizacion": "42°87'65.5\"N -4°67'10.9\"E\"",
+        "productos": [
+          {
+            "nombre": "Pasta",
+            "ofertas": false,
+            "periodo_vigencia": null,
+            "productos_habituales": true,
+            "unidades": 1,
+            "unidad_medida": "kg",
+            "precio": 1.0,
+            "adquirido":true
+          },
+          {
+            "nombre": "Azúcar",
+            "ofertas": true,
+            "periodo_vigencia": "2023-06-30",
+            "productos_habituales":true,
+            "unidades":1,
+            "unidad_medida":"kg",
+            "precio":1.2,
+            "adquirido":true
+        }
+    ]
+}   
+}
+}
+   
+    
+
+  
